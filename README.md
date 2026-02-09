@@ -2,7 +2,7 @@
 
 Plataforma de streaming completa desenvolvida com React e Firebase, replicando as principais funcionalidades da Netflix.
 
-![Netflix Clone](https://i.imgur.com/0Gxt4Ks.png)
+![Netflix Clone](../Clone-netflix/src/screenshots/Projeto-NetFlix-Clone.gif)
 
 
 ## 🚀 Demonstração
@@ -44,14 +44,14 @@ Plataforma de streaming completa desenvolvida com React e Firebase, replicando a
 ## 📸 Screenshots
 
 ### Tela de Login
-![Login](https://i.imgur.com/l4IHWFl.png)
+![Login](../Clone-netflix/src/screenshots/Projeto-NetFlix-Clone-Login.gif)
 
 ### Página Principal
-![Home](https://i.imgur.com/oxocugx.png)
+![Home](../Clone-netflix/src/screenshots/Projeto-NetFlix-Clone-Tela-principal.gif)
 
 ### Catálogo de Filmes
 
-![Catalogo](https://i.imgur.com/K8oQs0S.png) 
+![Catalogo](../Clone-netflix/src/screenshots/Projeto-NetFlix-Clone-Catalogo.gif) 
 
 ## 🛠️ Como Rodar o Projeto
 
