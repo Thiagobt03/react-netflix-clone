@@ -156,7 +156,7 @@ Durante o desenvolvimento deste projeto, aprendi e pratiquei:
 
 ## 🚀 Deploy
 
-Este projeto está hospedado no GitHub Pages.
+Este projeto está hospedado no Vercel.
 
 1. Crie uma conta na [Vercel](https://vercel.com)
 2. Conecte seu repositório GitHub
