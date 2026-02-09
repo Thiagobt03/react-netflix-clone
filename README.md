@@ -7,7 +7,7 @@ Plataforma de streaming completa desenvolvida com React e Firebase, replicando a
 
 ## 🚀 Demonstração
 
-**🔗 Deploy ao vivo:** [Seu link Vercel aqui]
+**🔗 Deploy ao vivo:** [https://thiagobt03.github.io/react-netflix-clone/]
 
 ## 💻 Tecnologias Utilizadas
 
@@ -156,12 +156,8 @@ Durante o desenvolvimento deste projeto, aprendi e pratiquei:
 
 ## 🚀 Deploy
 
-Este projeto está hospedado na Vercel. Para fazer seu próprio deploy:
+Este projeto está hospedado no GitHub Pages.
 
-1. Crie uma conta na [Vercel](https://vercel.com)
-2. Conecte seu repositório GitHub
-3. Configure as variáveis de ambiente no painel da Vercel
-4. Deploy automático a cada push na branch main
 
 ## 🔗 Links Úteis
 
